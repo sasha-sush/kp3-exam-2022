@@ -1,0 +1,2 @@
+Backend on asp.net web api
+Frontend on react with react-bootstrap and react-router-dom
